@@ -12,7 +12,10 @@
 11. Hannes Tschofenig
 12. Guest (from Hannes department)
 13. Matthieu Pourier
-14. Mike Schwartz
+14. Henk Birkholz
+15. Mathias Brossard
+16. Thore Sommer
+17. Mike Schwartz (maybe)
 
 **Presentations**: (Please add your name here if you would like to present) 
 
