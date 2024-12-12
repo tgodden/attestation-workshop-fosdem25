@@ -1,4 +1,6 @@
-**Confirmed Participants**: (Please add your name here if you plan to attend, whether presenting or not)
+**Room capacity:** 30 (first-come-first-serve)
+
+**Confirmed Participants**: (Please add your name at the end of this list if you plan to attend, whether presenting or not)
 1. Muhammad Usama Sardar
 2. Thomas Fossati
 3. Ionut Mihalcea
@@ -16,8 +18,11 @@
 15. Mathias Brossard
 16. Thore Sommer
 17. Mike Schwartz (maybe)
+    
+5 seats are reserved for university hosts. So anyone after #25 will be at risk.
 
-**Presentations**: (Please add your name here if you would like to present) 
+
+**Presentations**: (Please add your name in the table below if you would like to present) 
 
 | Name  | Title | Relevant material | Specs | Implementation | Duration (min) |
 |--|--|--|--|--|--|
