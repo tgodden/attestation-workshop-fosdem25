@@ -13,7 +13,7 @@
 10. Ian Oliver 
 11. Hannes Tschofenig
 12. Guest (from Hannes department)
-13. Matthieu Pourier
+13. Mathieu Poirier
 14. Henk Birkholz
 15. Mathias Brossard
 16. Thore Sommer
