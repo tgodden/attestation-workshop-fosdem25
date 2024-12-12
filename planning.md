@@ -1,17 +1,18 @@
 **Confirmed Participants**: (Please add your name here if you plan to attend, whether presenting or not)
 1. Muhammad Usama Sardar
 2. Thomas Fossati
-3. Mike Bursell
-4. Paul Howard
-5. Yogesh Deshpande
-6. Jun Zhang
-7. Houda Labiod
-8. Michael Richardson
-9. Ian Oliver 
-10. Hannes Tschofenig
-11. Guest (from Hannes department)
-12. Matthieu Pourier
-13. Mike Schwartz
+3. Ionut Mihalcea
+4. Mike Bursell
+5. Paul Howard
+6. Yogesh Deshpande
+7. Jun Zhang
+8. Houda Labiod
+9. Michael Richardson
+10. Ian Oliver 
+11. Hannes Tschofenig
+12. Guest (from Hannes department)
+13. Matthieu Pourier
+14. Mike Schwartz
 
 **Presentations**: (Please add your name here if you would like to present) 
 
