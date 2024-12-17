@@ -21,7 +21,8 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 15. Mathias Brossard
 16. Thore Sommer
 17. Mike Schwartz (maybe)
-18. Anderson Sasaki
+18. Jean Snyman
+19. Anderson Sasaki
 
 ## Presentations
 Please add your name and topic in the table below if you would like to present) 
