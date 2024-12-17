@@ -21,7 +21,7 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 15. Mathias Brossard
 16. Thore Sommer
 17. Mike Schwartz (maybe)
-
+18. Anderson Sasaki
 
 ## Presentations
 Please add your name and topic in the table below if you would like to present) 
@@ -32,6 +32,7 @@ Please add your name and topic in the table below if you would like to present)
 | Thore Sommer | TPM based Remote Attestation: Pitfalls and Lessons Learned |  |  | [Keylime](https://keylime.dev) | 15 |
 | Paul Howard | Endorsement and RV Distribution: Interaction Model, API and Prototyping | [Slides](https://github.com/CCC-Attestation/meetings/blob/main/materials/PaulHoward_EndorsementDistribution_Sept2024.pdf) |  | [Veraison](https://github.com/veraison/services) | 20 |
 | Ian Oliver | Forensics and Attestation | abstract[^1] |  |  | 30 + live demo |
+| Anderson Sasaki | Expanding Keylime: Attestation for Trusted Execution Environments | [Abstract](https://github.com/ansasaki/fosdem2025-talk-proposal) | [Enhancement Proposal](https://github.com/keylime/enhancements/pull/108) | [Changes to coconut-svsm](https://github.com/coconut-svsm/svsm/pull/528) | 20 |
 
 
 [^1]: Remote attestation provides us with a demonstration that a given system is in a given state - ideally one where the integrity of the system is according to known good values.
