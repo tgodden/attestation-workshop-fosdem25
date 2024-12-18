@@ -15,7 +15,7 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 9. Michael Richardson
 10. Ian Oliver 
 11. Hannes Tschofenig
-12. Guest (from Hannes department)
+12. Kai Jansen
 13. Mathieu Poirier
 14. Henk Birkholz
 15. Mathias Brossard
@@ -23,6 +23,9 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 17. Mike Schwartz (maybe)
 18. Jean Snyman
 19. Anderson Sasaki
+20. Michael Prantl
+21. Martina Kannen (maybe)
+22. Lena Oden (maybe)
 
 ## Presentations
 Please add your name and topic in the table below if you would like to present) 
@@ -34,6 +37,7 @@ Please add your name and topic in the table below if you would like to present)
 | Paul Howard | Endorsement and RV Distribution: Interaction Model, API and Prototyping | [Slides](https://github.com/CCC-Attestation/meetings/blob/main/materials/PaulHoward_EndorsementDistribution_Sept2024.pdf) |  | [Veraison](https://github.com/veraison/services) | 20 |
 | Ian Oliver | Forensics and Attestation | abstract[^1] |  |  | 30 + live demo |
 | Anderson Sasaki | Expanding Keylime: Attestation for Trusted Execution Environments | [Abstract](https://github.com/ansasaki/fosdem2025-talk-proposal) | [Enhancement Proposal](https://github.com/keylime/enhancements/pull/108) | [Changes to coconut-svsm](https://github.com/coconut-svsm/svsm/pull/528) | 20 |
+| Hannes Tschofenig | IETF Standards Update | Latest news from the standardization world  | IETF RATS/LAMPS/WIMSE |  | 30 |
 
 
 [^1]: Remote attestation provides us with a demonstration that a given system is in a given state - ideally one where the integrity of the system is according to known good values.
