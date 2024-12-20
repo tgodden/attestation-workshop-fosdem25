@@ -27,9 +27,10 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 
 ## Tentative Participants
 (Please add your name at the **end** of this list if you are planning to attend **in-person** but not sure yet)
-1. Mike Schwartz 
-2. Martina Kannen 
-3. Lena Oden 
+1. Mike Schwartz
+2. Ijlal Loutfi 
+3. Martina Kannen 
+4. Lena Oden 
     
 ## Agenda
 Please add your name and topic in the table below if you would like to present. (You may add at the end of the table, and we will see where it fits in the agenda)
