@@ -3,7 +3,7 @@
 Note: 5 seats are reserved for university hosts. So anyone after #25 will be on waiting list.
 
 ## Confirmed Participants 
-(Please add your name at the **end** of this list if you plan to attend **in-person**, whether presenting or not)
+(Please add your name at the **end** of this list if you are surely attending **in-person**, whether presenting or not)
 1. Muhammad Usama Sardar
 2. Thomas Fossati
 3. Ionut Mihalcea
@@ -23,10 +23,14 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 17. Jean Snyman
 18. Anderson Sasaki
 19. Michael Prantl
-20. Mike Schwartz (maybe)
-21. Martina Kannen (maybe)
-22. Lena Oden (maybe)
 
+
+## Tentative Participants
+(Please add your name at the **end** of this list if you are planning to attend **in-person** but not sure yet)
+1. Mike Schwartz 
+2. Martina Kannen 
+3. Lena Oden 
+    
 ## Agenda
 Please add your name and topic in the table below if you would like to present. (You may add at the end of the table, and we will see where it fits in the agenda)
 
