@@ -23,14 +23,14 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 17. Jean Snyman
 18. Anderson Sasaki
 19. Michael Prantl
+20. Ijlal Loutfi
 
 
 ## Tentative Participants
 (Please add your name at the **end** of this list if you are planning to attend **in-person** but not sure yet)
 1. Mike Schwartz
-2. Ijlal Loutfi 
-3. Martina Kannen 
-4. Lena Oden 
+2. Martina Kannen
+3. Lena Oden 
     
 ## Agenda
 Please add your name and topic in the table below if you would like to present. (You may add at the end of the table, and we will see where it fits in the agenda)
@@ -40,7 +40,7 @@ Please add your name and topic in the table below if you would like to present. 
 | Muhammad Usama Sardar | Welcome |  |  |  | 10 |
 | Hannes Tschofenig | IETF Standards Update | Latest news from the standardization world  | IETF RATS/LAMPS/WIMSE |  | 30 |
 | Paul Howard | Endorsement and RV Distribution: Interaction Model, API and Prototyping | [Slides](https://github.com/CCC-Attestation/meetings/blob/main/materials/PaulHoward_EndorsementDistribution_Sept2024.pdf) |  | [Veraison](https://github.com/veraison/services) | 20 |
-| Muhammad Usama Sardar | Backdoors in RFC9334 | [Draft (in progress)](https://github.com/muhammad-usama-sardar/rats-unprotected-evidence) |  |  | 10 |
+| Muhammad Usama Sardar | Backdoors in RFC9334 | [Draft (in progress)](https://muhammad-usama-sardar.github.io/rats-unprotected-evidence/draft-usama-rats-unprotected-evidence.html) |  |  | 10 |
 | Ian Oliver | Forensics and Attestation | abstract[^1] |  |  | 30 + live demo |
 | Thore Sommer | TPM based Remote Attestation: Pitfalls and Lessons Learned |  |  | [Keylime](https://keylime.dev) | 15 |
 | Anderson Sasaki | Expanding Keylime: Attestation for Trusted Execution Environments | [Abstract](https://github.com/ansasaki/fosdem2025-talk-proposal) | [Enhancement Proposal](https://github.com/keylime/enhancements/pull/108) | [Changes to coconut-svsm](https://github.com/coconut-svsm/svsm/pull/528) | 20 |
