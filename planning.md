@@ -26,7 +26,8 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 20. Ijlal Loutfi
 21. Gilang Hamidy
 22. Wiktor Kwapisiewicz
-23. Navid Ladner
+23. Cédrick Austa
+24. Navid Ladner
 
 ## Tentative Participants
 (Please add your name at the **end** of this list if you are planning to attend **in-person** but not sure yet)
