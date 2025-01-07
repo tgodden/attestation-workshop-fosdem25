@@ -3,22 +3,25 @@
 ## Location and time
 
 - Date: 31st January 2025
-- Time: 13:00 - 17:00 CET
-- Location: [ULB Solbosch Campus, Brussels, Belgium](https://fosdem.org/2025/practical/transportation/)
-- Current plan: **in-person only** (we are checking the possibility of virtual participation)
+- Time: 13:00 - 19:00 CET
+- Location: [ULB Solbosch Campus, Brussels, Belgium](https://fosdem.org/2025/practical/transportation/); exact location will be shared with registered participants.
+- Current plan: Virtual participation is possible. Link will be shared with registered participants.
 
 ## Formats 
 - Lightening talks
 - Detailed talks
 - Open discussion topics
 
-## How can I register? 
-Simply submit a PR by appending your name at the end of the list of confirmed participants in [planning file](https://github.com/muhammad-usama-sardar/attestation-workshop-fosdem25/blob/main/planning.md).
+## How can I register to attend in-person? 
+Simply submit a PR by appending your name at the end of the list of [confirmed participants](https://github.com/muhammad-usama-sardar/attestation-workshop-fosdem25/blob/main/planning.md#confirmed-participants).
+
+## How can I register to attend online? 
+Simply submit a PR by appending your name at the end of the list of [online participants](https://github.com/muhammad-usama-sardar/attestation-workshop-fosdem25/blob/main/planning.md#online-participants).
 
 ## How can I submit a talk/topic? 
-Simply submit a PR by adding information about your talk in the table in [planning file](https://github.com/muhammad-usama-sardar/attestation-workshop-fosdem25/blob/main/planning.md). 
+Simply submit a PR by adding information about your talk in the [agenda](https://github.com/muhammad-usama-sardar/attestation-workshop-fosdem25/blob/main/planning.md#agenda). 
 
-Topics that we could not accommodate in Attestation devroom are pre-selected, so please add only if you are planning to attend in person. 
+Topics that we could not accommodate in [Attestation devroom](https://fosdem.org/2025/schedule/track/attestation/) are pre-selected, so please add only if you are planning to attend in person. 
 
 ## Deadline for submission
 
