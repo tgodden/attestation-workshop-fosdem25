@@ -31,6 +31,7 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 25. Jan Tobias Muehlberg
 26. Jason Kayembe
 27. Aurélien Chassagne
+28. Oscar Van Slijpe
 
 ## Tentative Participants
 (Please add your name at the **end** of this list if you are planning to attend **in-person** but not sure yet)
