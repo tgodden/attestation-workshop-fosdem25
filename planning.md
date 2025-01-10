@@ -35,11 +35,13 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 29. Anastassios Nanos
 30. Tom Godden
 
+
 ## Tentative Participants
 (Please add your name at the **end** of this list if you are planning to attend **in-person** but not sure yet)
 1. Mike Schwartz
 2. Martina Kannen
-3. Lena Oden 
+3. Lena Oden
+4. Sam Van de Velde
     
 ## Online Participants
 (Please add your name at the **end** of this list if you are planning to attend **online**)
