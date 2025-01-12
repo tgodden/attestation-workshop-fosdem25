@@ -34,6 +34,7 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 28. Oscar Van Slijpe
 29. Anastassios Nanos
 30. Tom Godden
+31. Apolline Zehner
 
 
 ## Tentative Participants
