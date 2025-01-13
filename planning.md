@@ -39,6 +39,7 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 33. Tiago Martins
 34. Ricardo Seromenho
 35. Freddie Woodruff
+36. Jagannathan Raman
 
 
 ## Tentative Participants
