@@ -52,6 +52,7 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 (Please add your name at the **end** of this list if you are planning to attend **online**)
 1. Yuxuan Song
 2. Dionna Glaze (starting from 19:00 for the endorsement API discussion)
+3. Eduardo Cabre (Endorsement API)
 
 ## Agenda
 Please add your name and topic in the table below if you would like to present. (You may add at the end of the table, and we will see where it fits in the agenda)
