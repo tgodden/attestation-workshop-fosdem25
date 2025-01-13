@@ -35,6 +35,10 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 29. Anastassios Nanos
 30. Tom Godden
 31. Apolline Zehner
+32. Andrew Campbell
+33. Tiago Martins
+34. Ricardo Seromenho
+35. Freddie Woodruff
 
 
 ## Tentative Participants
