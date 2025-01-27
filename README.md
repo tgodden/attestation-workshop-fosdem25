@@ -16,7 +16,9 @@
 Simply submit a PR by appending your name at the **end** of the list of [confirmed participants](https://github.com/muhammad-usama-sardar/attestation-workshop-fosdem25/blob/main/planning.md#confirmed-participants).
 
 ## How can I register to attend online? 
-Please register [here](https://tu-dresden.zoom-x.de/meeting/register/4Sr8Wcr3RRiLwy_6fb5vkA). Also, please submit a PR by adding your name to the list of [online participants](https://github.com/muhammad-usama-sardar/attestation-workshop-fosdem25/blob/main/planning.md#online-participants).
+Please login with your Zoom account and register [here](https://tu-dresden.zoom-x.de/meeting/register/4Sr8Wcr3RRiLwy_6fb5vkA) with the email address associated with your Zoom account. 
+
+Also, please submit a PR by adding your name to the list of [online participants](https://github.com/muhammad-usama-sardar/attestation-workshop-fosdem25/blob/main/planning.md#online-participants).
 
 ## How can I submit a talk/topic? 
 Simply submit a PR by adding information about your talk in the [agenda](https://github.com/muhammad-usama-sardar/attestation-workshop-fosdem25/blob/main/planning.md#agenda). 
