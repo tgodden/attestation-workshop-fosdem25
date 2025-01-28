@@ -11,7 +11,7 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 5. Paul Howard
 6. Yogesh Deshpande
 7. Jun Zhang
-8. Houda Labiod
+8. Pavel Nikonorov
 9. Michael Richardson
 10. Ian Oliver 
 11. Hannes Tschofenig
@@ -40,7 +40,6 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 34. Ricardo Seromenho
 35. Freddie Woodruff
 36. Jagannathan Raman
-37. Pavel Nikonorov
 
 
 ## Tentative Participants
