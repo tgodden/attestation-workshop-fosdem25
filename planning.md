@@ -34,6 +34,13 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 28. Oscar Van Slijpe
 29. Anastassios Nanos
 30. Tom Godden
+31. Apolline Zehner
+32. Andrew Campbell
+33. Tiago Martins
+34. Ricardo Seromenho
+35. Freddie Woodruff
+36. Jagannathan Raman
+37. Pavel Nikonorov
 
 
 ## Tentative Participants
@@ -42,12 +49,17 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 2. Martina Kannen
 3. Lena Oden
 4. Sam Van de Velde
+5. Marcin Cieślak
     
 ## Online Participants
 (Please add your name at the **end** of this list if you are planning to attend **online**)
 1. Yuxuan Song
 2. Dionna Glaze (starting from 19:00 for the endorsement API discussion)
-3. Venkat Nilesh Dadi
+3. Giri Mandyam (Pacific time zone)
+4. Eduardo Cabre (Endorsement API)
+5. Marc-André Lureau
+6. Carsten Weinhold
+7. Venkat Nilesh Dadi
 
 ## Agenda
 Please add your name and topic in the table below if you would like to present. (You may add at the end of the table, and we will see where it fits in the agenda)
@@ -56,15 +68,17 @@ Please add your name and topic in the table below if you would like to present. 
 |--|--|--|--|--|--|
 | Muhammad Usama Sardar | Welcome |  |  |  | 10 |
 | Hannes Tschofenig | IETF Standards Update | Latest news from the standardization world  | IETF RATS/LAMPS/WIMSE |  | 30 |
-| Paul Howard | Endorsement and RV Distribution: Interaction Model, API and Prototyping | [Slides](https://github.com/CCC-Attestation/meetings/blob/main/materials/PaulHoward_EndorsementDistribution_Sept2024.pdf) |  | [Veraison](https://github.com/veraison/services) | 20 |
 | Muhammad Usama Sardar | Backdoors in RFC9334 | [Draft (in progress)](https://muhammad-usama-sardar.github.io/rats-unprotected-evidence/draft-usama-rats-unprotected-evidence.html) |  |  | 10 |
 | Ian Oliver | Forensics and Attestation | abstract[^1] |  |  | 30 + live demo |
 | Thore Sommer | TPM based Remote Attestation: Pitfalls and Lessons Learned |  |  | [Keylime](https://keylime.dev) | 15 |
 | Anderson Sasaki | Expanding Keylime: Attestation for Trusted Execution Environments | [Abstract](https://github.com/ansasaki/fosdem2025-talk-proposal) | [Enhancement Proposal](https://github.com/keylime/enhancements/pull/108) | [Changes to coconut-svsm](https://github.com/coconut-svsm/svsm/pull/528) | 20 |
-| Muhammad Usama Sardar | Attested TLS and Formalization | [Paper](https://www.researchgate.net/publication/385384309_Towards_Validation_of_TLS_13_Formal_Model_and_Vulnerabilities_in_Intel's_RA-TLS_Protocol); [formalization](https://github.com/CCC-Attestation/formal-spec-TEE); [slides etc.](https://github.com/CCC-Attestation/formal-spec-KBS) | [Specs](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/) | [Implementation](https://github.com/ccc-attestation/attested-tls-poc) | 30 |
-| Anastassios Nanos | Secure Cloud-Native IoT: Onboarding, OTA Update, and Device Repurposing with OpenDICE in k8s | Presentation / Discussion about IoT application attestation |  |  | 20 |
+| Pavel Nikonorov | Attested TLS: Inferring Trust in Post-Attestation Integrity with Linux Security Modules | [Demo](https://github.com/elixir-cloud-aai/biohackeu24-issues/issues/17) |  |  | 20 |
+| Muhammad Usama Sardar | Formalization of Attested TLS  | [Paper](https://www.researchgate.net/publication/385384309_Towards_Validation_of_TLS_13_Formal_Model_and_Vulnerabilities_in_Intel's_RA-TLS_Protocol); [formalization](https://github.com/CCC-Attestation/formal-spec-TEE); [slides etc.](https://github.com/CCC-Attestation/formal-spec-KBS) | [Specs](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/) | [Implementation](https://github.com/ccc-attestation/attested-tls-poc) | 30 |
 | Yuxuan SONG | Remote Attestation for Constrained IoT Use Cases | [IETF draft](https://datatracker.ietf.org/doc/draft-song-lake-ra/) | | [Attester(DotBot running on nRF5340)](https://github.com/ysong02/DotBot-firmware/blob/only-attestation-Nov/projects/03app_dotbot/03app_dotbot.c) , [Relying Party](https://github.com/ysong02/PyDotBot/tree/demo-remote-attestation), [Verifier](https://github.com/ysong02/dotbot-authority/tree/attestation-demo-video) | 15 |
-| Venkat Nilesh Dadi | Confidential Federated Learning : A Case study in Healthcare Deployment | The slides are still in progress but they will focus on challenges, solution, architecture, future opportunities |  | | 25 |
+| Venkat Nilesh Dadi | Confidential Federated Learning : A Case study in Healthcare Deployment | The slides are still in progress but they will focus on challenges, solution, architecture, future opportunities |  | | 10 |
+| Anastassios Nanos | Secure Cloud-Native IoT: Onboarding, OTA Update, and Device Repurposing with OpenDICE in k8s | Presentation / Discussion about IoT application attestation |  |  | 20 |
+| Muhammad Usama Sardar | Pinky Promises of Confidential Computing: An unspecified world of myths | Discussion about open questions in attestation | [Security through obscurity](https://en.wikipedia.org/wiki/Security_through_obscurity) |  | 20 |
+| Paul Howard | Endorsement and RV Distribution: Interaction Model, API and Prototyping | [Slides](https://github.com/CCC-Attestation/meetings/blob/main/materials/PaulHoward_EndorsementDistribution_Sept2024.pdf) |  | [Veraison](https://github.com/veraison/services) | 20 |
 
 
 
