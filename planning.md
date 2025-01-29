@@ -1,49 +1,49 @@
 **Room capacity:** 30 (first-come-first-serve)
 
-Note: 5 seats are reserved for university hosts. So anyone after #25 will be on waiting list.
-
-## Confirmed Participants 
-(Please add your name at the **end** of this list if you are surely attending **in-person**, whether presenting or not)
+## Confirmed Participants
+If you are not attending in-person due to any reason, please remove your name from this list, so that people in waiting list can be accommodated. Thanks!
 1. Muhammad Usama Sardar
 2. Thomas Fossati
 3. Ionut Mihalcea
 4. Mike Bursell
 5. Paul Howard
 6. Yogesh Deshpande
-7. Jun Zhang
-8. Pavel Nikonorov
-9. Michael Richardson
-10. Ian Oliver 
-11. Hannes Tschofenig
-12. Kai Jansen
-13. Mathieu Poirier
-14. Henk Birkholz
-15. Mathias Brossard
-16. Thore Sommer
-17. Jean Snyman
-18. Anderson Sasaki
-19. Michael Prantl
-20. Ijlal Loutfi
-21. Gilang Hamidy
-22. Wiktor Kwapisiewicz
-23. Cédrick Austa
-24. Navid Ladner
-25. Jan Tobias Muehlberg
-26. Jason Kayembe
-27. Aurélien Chassagne
-28. Oscar Van Slijpe
-29. Anastassios Nanos
-30. Tom Godden
-31. Apolline Zehner
-32. Andrew Campbell
-33. Tiago Martins
-34. Ricardo Seromenho
-35. Freddie Woodruff
-36. Jagannathan Raman
+7. Pavel Nikonorov
+8. Michael Richardson
+9. Ian Oliver
+10. Hannes Tschofenig
+11. Kai Jansen
+12. Mathieu Poirier
+13. Henk Birkholz
+14. Mathias Brossard
+15. Thore Sommer
+16. Jean Snyman
+17. Anderson Sasaki
+18. Michael Prantl
+19. Ijlal Loutfi
+20. Gilang Hamidy
+21. Wiktor Kwapisiewicz
+22. Cédrick Austa
+23. Navid Ladner
+24. Jan Tobias Muehlberg
+25. Jason Kayembe
+26. Aurélien Chassagne
+27. Oscar Van Slijpe
+28. Anastassios Nanos
+29. Tom Godden
+30. Apolline Zehner
+
+## Waiting List 
+If a spot becomes available, we will move your name to the confirmed participants. You are very welcome to join online. 
+1. Andrew Campbell
+2. Tiago Martins
+3. Ricardo Seromenho
+4. Freddie Woodruff
+5. Jagannathan Raman
 
 
 ## Tentative Participants
-(Please add your name at the **end** of this list if you are planning to attend **in-person** but not sure yet)
+Please add your name at the **end** of this list if you are planning to attend **in-person** but not sure yet.
 1. Mike Schwartz
 2. Martina Kannen
 3. Lena Oden
@@ -51,7 +51,7 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 5. Marcin Cieślak
     
 ## Online Participants
-(Please add your name at the **end** of this list if you are planning to attend **online**)
+Please add your name at the **end** of this list if you are planning to attend **online**. Also, follow instructions [here](https://github.com/muhammad-usama-sardar/attestation-workshop-fosdem25?tab=readme-ov-file#how-can-i-register-to-attend-online) to get meeting link.
 1. Yuxuan Song
 2. Dionna Glaze (starting from 19:00 for the endorsement API discussion)
 3. Giri Mandyam (Pacific time zone)
@@ -60,13 +60,14 @@ Note: 5 seats are reserved for university hosts. So anyone after #25 will be on 
 6. Carsten Weinhold
 7. Venkat Nilesh Dadi
 8. Georges Papadopoulos
+9. Jun Zhang
 
 ## Agenda
 Please add your name and topic in the table below if you would like to present. (You may add at the end of the table, and we will see where it fits in the agenda)
 
 | Name  | Title | Relevant material | Specs | Implementation | Duration (min) |
 |--|--|--|--|--|--|
-| Muhammad Usama Sardar | Welcome |  |  |  | 10 |
+| Muhammad Usama Sardar | Welcome |  |  |  | 15 |
 | Hannes Tschofenig | IETF Standards Update | Latest news from the standardization world  | IETF RATS/LAMPS/WIMSE |  | 30 |
 | Muhammad Usama Sardar | Backdoors in RFC9334 | [Draft (in progress)](https://muhammad-usama-sardar.github.io/rats-unprotected-evidence/draft-usama-rats-unprotected-evidence.html) |  |  | 10 |
 | Ian Oliver | Forensics and Attestation | abstract[^1] |  |  | 30 + live demo |
