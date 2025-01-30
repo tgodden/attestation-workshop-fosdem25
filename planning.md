@@ -12,7 +12,7 @@ If you are not attending in-person due to any reason, please remove your name fr
 8. Michael Richardson
 9. Ian Oliver
 10. Hannes Tschofenig
-11. -
+11. Andrew Campbell
 12. Mathieu Poirier
 13. Henk Birkholz
 14. Mathias Brossard
@@ -35,11 +35,10 @@ If you are not attending in-person due to any reason, please remove your name fr
 
 ## Waiting List 
 If a spot becomes available, we will move your name to the confirmed participants. You are very welcome to join online. 
-1. Andrew Campbell
-2. Tiago Martins
-3. Ricardo Seromenho
-4. Freddie Woodruff
-5. Jagannathan Raman
+1. Tiago Martins
+2. Ricardo Seromenho
+3. Freddie Woodruff
+4. Jagannathan Raman
 
 
 ## Tentative Participants
@@ -66,6 +65,8 @@ Please add your name at the **end** of this list if you are planning to attend *
 ## Agenda
 Please add your name and topic in the table below if you would like to present. (You may add at the end of the table, and we will see where it fits in the agenda)
 
+**Format**: We will have discussions during the talks. Hence, the starting time of a specific talk cannot be pre-determined.  
+
 | Name  | Title | Relevant material | Specs | Implementation | Duration (min) |
 |--|--|--|--|--|--|
 | Muhammad Usama Sardar | Welcome |  |  |  | 15 |
@@ -79,8 +80,8 @@ Please add your name and topic in the table below if you would like to present. 
 | Yuxuan SONG | Remote Attestation for Constrained IoT Use Cases | [IETF draft](https://datatracker.ietf.org/doc/draft-song-lake-ra/) | | [Attester(DotBot running on nRF5340)](https://github.com/ysong02/DotBot-firmware/blob/only-attestation-Nov/projects/03app_dotbot/03app_dotbot.c) , [Relying Party](https://github.com/ysong02/PyDotBot/tree/demo-remote-attestation), [Verifier](https://github.com/ysong02/dotbot-authority/tree/attestation-demo-video) | 15 |
 | Anastassios Nanos | Secure Cloud-Native IoT: Onboarding, OTA Update, and Device Repurposing with OpenDICE in k8s | Presentation / Discussion about IoT application attestation |  |  | 20 |
 | Venkat Nilesh Dadi | Confidential Federated Learning : A Case study in Healthcare Deployment | The slides are still in progress but they will focus on challenges, solution, architecture, future opportunities |  | | 10 |
-| Muhammad Usama Sardar | Pinky Promises of Confidential Computing: An unspecified world of myths | Discussion about open questions in attestation | [Security through obscurity](https://en.wikipedia.org/wiki/Security_through_obscurity) |  | 20 |
-| Paul Howard | Endorsement and RV Distribution: Interaction Model, API and Prototyping | [Slides](https://github.com/CCC-Attestation/meetings/blob/main/materials/PaulHoward_EndorsementDistribution_Sept2024.pdf) |  | [Veraison](https://github.com/veraison/services) | 20 |
+| Muhammad Usama Sardar | Pinky Promises of Confidential Computing: An unspecified world of myths | Discussion about [open questions in attestation](https://mailarchive.ietf.org/arch/msg/rats/f-7MsyMOnUF5mwCH4oDGV4U9yPg/) | [Security through obscurity](https://en.wikipedia.org/wiki/Security_through_obscurity) |  | 20 |
+| Paul Howard | Endorsement and RV Distribution: Interaction Model, API and Prototyping | [Slides](https://github.com/CCC-Attestation/meetings/blob/main/materials/PaulHoward_EndorsementDistribution_Sept2024.pdf) [Notes](https://wiki.ietf.org/group/rats/referencevalues) |  | [Veraison](https://github.com/veraison/services) | 20 |
 
 
 
