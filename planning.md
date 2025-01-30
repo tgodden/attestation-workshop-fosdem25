@@ -61,6 +61,7 @@ Please add your name at the **end** of this list if you are planning to attend *
 7. Venkat Nilesh Dadi
 8. Georges Papadopoulos
 9. Jun Zhang
+10. Ahmad Khalifeh (Central time zone)
 
 ## Agenda
 Please add your name and topic in the table below if you would like to present. (You may add at the end of the table, and we will see where it fits in the agenda)
