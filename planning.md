@@ -12,7 +12,7 @@ If you are not attending in-person due to any reason, please remove your name fr
 8. Michael Richardson
 9. Ian Oliver
 10. Hannes Tschofenig
-11. Kai Jansen
+11. -
 12. Mathieu Poirier
 13. Henk Birkholz
 14. Mathias Brossard
@@ -49,6 +49,7 @@ Please add your name at the **end** of this list if you are planning to attend *
 3. Lena Oden
 4. Sam Van de Velde
 5. Marcin Cieślak
+6. Kai Jansen
     
 ## Online Participants
 Please add your name at the **end** of this list if you are planning to attend **online**. Also, follow instructions [here](https://github.com/muhammad-usama-sardar/attestation-workshop-fosdem25?tab=readme-ov-file#how-can-i-register-to-attend-online) to get meeting link.
