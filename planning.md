@@ -39,6 +39,7 @@ If a spot becomes available, we will move your name to the confirmed participant
 2. Ricardo Seromenho
 3. Freddie Woodruff
 4. Jagannathan Raman
+5. Chris A. Iradukunda
 
 
 ## Tentative Participants
